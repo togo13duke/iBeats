@@ -13,7 +13,7 @@ on:
 env:
   # change env here
   GITHUB_NAME: togo13duke
-  GITHUB_EMAIL: togo1@duke13.com
+  GITHUB_EMAIL: duke13@duck.com
 
 jobs:
   sync:
